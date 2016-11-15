@@ -1,0 +1,11 @@
+{
+  "name": "Lego",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {
+    "url": "git@github.com:EchoFUN/lego.git",
+    "type": "git"
+  },
+  "author": "XU Kai(xukai.ken@gmail.com)",
+  "license": "MIT"
+}
